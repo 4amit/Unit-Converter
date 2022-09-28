@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background: black;
+}
+
+.container {
+    max-width: 600px;
+    margin: 25px auto;
+}
+
+
+#title {
+    display: flex;
+    flex-direction: column;
+    background: #6943FF;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+#convert, #btn-convert {
+    width: 120px;
+    margin: auto;
+}
+
+#convert {
+    background: #6943FF;
+    font-size: 35px;
+    text-align: center;
+    color: #fff;
+}
+
+#btn-convert {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.background {
+    background: #1F2937;
+}
+
+#length, #volume, #mass {
+    background: #273549;
+    color: #CCC1FF;
+    width: 550px;
+    margin: 0 auto;
+    
+}
+
+#length {
+    /* margin-top: 10px; */
+}
+
+h1 {
+    
+font-size: 28px;
+
+
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 10px;
+}
+
+#feet, #liter, #kilograms {
+    padding-bottom: 5px;
+}
+
